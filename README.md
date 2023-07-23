@@ -7,7 +7,7 @@ feel free to submit a pull request. Let's collaborate and create a comprehensive
 <p>
 If you find this repository valuable, consider giving it a star to show your support. 
 Don't forget to share it with your friends and teammates to foster a broader community of learners. 
-For updates and announcements related to this repository, you can follow me on Twitter (@YourTwitterHandle).</p>
+For updates and announcements related to this repository, you can follow me on Twitter (@_ranjit_patil).</p>
 <p>Let's embrace the thrill of competitive coding and embark on a journey of constant improvement together! Happy coding! 🏆🚀</p>
 
 
