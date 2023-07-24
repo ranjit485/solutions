@@ -8,12 +8,11 @@ class Fibonacci_Series {
      int T1 =0;
      int T2 =1;
      int T3;
-
-    for (int i = 0; i < 10; i++) {
+     for (int i = 0; i < 10; i++) {
         T3=T1+T2;
-        System.out.println(T3);
+         System.out.println(T3);
         T1=T2;
         T2=T3;
-    }
+     }
     }
 }
